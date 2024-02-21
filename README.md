@@ -15,7 +15,7 @@ Placeholder content: Images, product descriptions, and other content need to be 
 Simple styling: The CSS provides a basic layout and styling, but customization is encouraged to match your brand identity.
 Getting Started:
 
-Clone the repository: git clone https://github.com/your-username/time-store
+Clone the repository: git clone https://github.com/New
 Replace placeholder content: Update images, descriptions, and links with your own watch collection.
 Customize the styling: Modify the CSS file to match your desired look and feel.
 Host the website: Deploy the code to a web hosting platform and explore further features and functionalities.
